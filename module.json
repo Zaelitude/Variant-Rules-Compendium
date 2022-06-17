@@ -38,6 +38,9 @@
             "entity": "Scene"
         }
     ],
-    "manifest": "",
-    "download": ""
+	"url": "https://github.com/Zaelitude/Variant-Rules-Compendium",
+	"download": "https://github.com/Zaelitude/Variant-Rules-Compendium/archive/1.0.6172022.zip",
+	"manifest": "https://github.com/Zaelitude/Variant-Rules-Compendium/releases/latest/download/module.json",
+	"bugs": "https://github.com/Zaelitude/Variant-Rules-Compendium/issues",
+	"allowBugReporter": true
   }
