@@ -1,0 +1,43 @@
+{
+    "name": "variant-rules-compendium",
+    "title": "Variant Rules Compendium",
+    "description": "The Variant Rules Compendium contains all of the various ancestries, actions, items, effects, journal entries, and everything else needed to run a campaign in the World of Alteia or The Cursed Kingdoms of Kynera",
+    "version": "1.1.06132022",
+    "author": "Variant Rules",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.9.2",
+    "packs": [
+        {
+            "name": "kynera-items",
+            "label": "Variant Rules - Kynera Items",
+            "path": "./packs/kynera-items.db",
+            "entity": "Item"
+        },
+		{
+            "name": "alteia-items",
+            "label": "Variant Rules - Alteia Items",
+            "path": "./packs/alteia-items.db",
+            "entity": "Item"
+        },
+		{
+            "name": "legacy-characters",
+            "label": "Variant Rules - Legacy Characters",
+            "path": "./packs/legacy-characters.db",
+            "entity": "Actor"
+        },
+		{
+            "name": "variant-rules-macros",
+            "label": "Variant Rules - Macros",
+            "path": "./packs/variant-rules-macros.db",
+            "entity": "Macro"
+        },
+		{
+            "name": "variant-rules-legacy-maps",
+            "label": "Variant Rules - Legacy Maps",
+            "path": "./packs/variant-rules-legacy-maps.db",
+            "entity": "Scene"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
